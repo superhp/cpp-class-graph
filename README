@@ -1,3 +1,5 @@
+I have been working on a tool which can visualise class dependencies (a graph) on a C++ projects. The tool was being developed under Linux OS by using Rose Compiler API for C++ project static analysis, Qt for the tool it-self and ZGRViewer for visualisation of the constructed class graph.
+
 In TestProject you can find result_graph.svg of generated graph
 
 Aurimas Šimkus
